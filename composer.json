@@ -1,0 +1,17 @@
+{
+    "name": "odc/mvc",
+    "description": "mvc project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Odc\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "peterGeorge7",
+            "email": "peto.george.3@gmail.com"
+        }
+    ],
+    "require": {}
+}
